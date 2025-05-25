@@ -7,30 +7,40 @@ Key Features --->
 
 
 . Welcome screen with animated introduction.
+
 . Dynamically scaled fonts based on screen resolution.
 
 2.User Info & Domain Selection :
 
 
 . Prompts the user to enter their name.
+
 . Allows selection from 3 quiz categories.
 
 3.Quiz Interface :
 
 
 . Displays one question at a time with 4 options.
-. Allows Next, Previous, and Skip navigation.
+
+. Allows Next, Previous, and Skip navigation. 
+
 . Options are selectable via JRadioButton with visual feedback.
+
 . Timer per question (60 seconds).
+
 
 4.Answer Storage & Scoring :
 
 
 . Stores user answers in an integer array.
+
 . Score updates in real-time and displayed at the bottom.
+
 
 5.Timer Functionality :
 
 
 . Each question has a 60-second countdown.
+
 . Automatically moves to the next question when time expires.
+
