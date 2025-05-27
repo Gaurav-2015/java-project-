@@ -44,6 +44,35 @@ x
 
 . Automatically moves to the next question when time expires.
 
+<img width="518" alt="Screenshot 2025-05-25 at 11 58 22 PM" src="https://github.com/user-attachments/assets/dd1e1b58-72bb-418b-9e92-11b18ec90237" />
+
+
 # Screenshot 
+
+<h3 align="center">Screenshot 1: WELCOME PAGE</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2f31215-87bd-43b3-b908-d7ed01e5307c" width="600" />
+</p>
+
+<h3 align="center">Screenshot 2: DOMAIN SELECTION</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c0127ff-5e53-40dc-ba2b-ca71cb489a03" width="370" />
+</p>
+
+<h3 align="center">Screenshot 4: GREETING PAGE</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7dcae00-b6d4-4b44-ae44-7092ab1b63ae" width="540" />
+</p>
+
+<h3 align="center">Screenshot 3: QUESTIONS</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/499824f3-d7d4-4bfd-a53c-8404a6ae583f" width="700" />
+</p>
+
+<h3 align="center">Screenshot 5: SCORE</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b252b21-332f-4b1b-b9e4-6e57a196d4d8" width="250" />
+</p>
+
 
 
