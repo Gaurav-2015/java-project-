@@ -12,7 +12,7 @@ Key Features --->
 
 2.User Info & Domain Selection :
 
-
+x
 . Prompts the user to enter their name.
 
 . Allows selection from 3 quiz categories.
@@ -43,4 +43,7 @@ Key Features --->
 . Each question has a 60-second countdown.
 
 . Automatically moves to the next question when time expires.
+
+# Screenshot 
+
 
